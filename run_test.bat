@@ -1,0 +1,1 @@
+java -cp .;lib\junit.jar;lib\slf4j-api.jar;lib\logback-core.jar;lib\logback-classic.jar junit.swingui.TestRunner it.unibas.accesses.test.TestArchive

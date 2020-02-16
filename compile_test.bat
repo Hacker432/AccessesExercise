@@ -1,0 +1,1 @@
+javac -cp .;lib\junit.jar;lib\slf4j-api.jar;lib\logback-core.jar;lib\logback-classic.jar it\unibas\accesses\test\TestArchive.java
